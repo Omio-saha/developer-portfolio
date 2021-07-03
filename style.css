@@ -1,0 +1,33 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.nm{
+    color: rgb(255, 136, 0);
+}
+section{
+    display: flex;
+}
+.mhd{
+    width: 50%;
+    padding-left: 5%;
+}
+.mhd img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( blue, red );
+    padding: 10px 40px ; 
+    border-radius: 5px;
+    color: seashell;
+    font-weight: 800;
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
