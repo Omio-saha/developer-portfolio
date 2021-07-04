@@ -11,6 +11,7 @@ h1{
 .section{
     display: flex;
     margin-bottom: 150px;
+    
 }
 .mhd{
     width: 50%;
@@ -18,7 +19,7 @@ h1{
    
 }
 .mhd img{
-    width: 80%;
+    width: 100%;
 }
 .button{
     text-decoration: none;
@@ -90,4 +91,7 @@ h2{
 }
 footer{
     text-align: center;
+}
+.naba{
+    padding-right: 120px;
 }
